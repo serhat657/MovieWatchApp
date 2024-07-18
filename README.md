@@ -1,16 +1,59 @@
-# animate_demo01
+# Movie Match App
 
-A new Flutter project.
+Bu uygulama, kullanıcıların favori filmlerini bulmalarına yardımcı olan bir platformdur. Kullanıcılar farklı kategorilere göre filmleri keşfedebilir, favori filmlerini listelerine ekleyebilir ve başkalarıyla paylaşabilirler.
 
-## Getting Started
+## Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
+![Uygulama Ekran Görüntüsü](https://l24.im/hpXS5c)
 
-A few resources to get you started if this is your first Flutter project:
+## Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Film Keşfet**: Farklı kategorilerdeki filmleri görüntüleyin.
+- **Favorilere Ekle**: Beğendiğiniz filmleri favori listenize ekleyin.
+- **Profil**: Kullanıcı profilleriyle filmleri paylaşın ve diğer kullanıcıların favori filmlerini görün.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kullanım
+
+- **Film Keşfet**: Ana ekranda farklı kategoriler arasında gezinerek yeni filmler keşfedin.
+- **Favorilere Ekle**: Bir film detayına gidip favorilere ekle butonuna tıklayarak filmi listenize ekleyin.
+- **Profil**: Kullanıcı profiline giderek kendi favori filmlerinizi ve diğer kullanıcıların paylaşımlarını görün.
+
+## Kurulum
+
+### Gerekli Araçlar
+
+- Flutter SDK
+- Bir IDE (Visual Studio Code, Android Studio, vs.)
+- Bir Android veya iOS cihazı veya emülatör
+
+### Adımlar
+
+1. **Projeyi Kopyalayın**
+
+    ```bash
+    git clone https://github.com/serhat657/MovieMatchApp.git
+    ```
+
+2. **Bağımlılıkları Yükleyin**
+
+    Projenizin ana dizininde, bağımlılıkları yüklemek için terminalde aşağıdaki komutu çalıştırın:
+
+    ```bash
+    flutter pub get
+    ```
+
+3. **Uygulamayı Çalıştırın**
+
+    Flutter'ı yüklü olan bir cihaz veya emülatör üzerinde projeyi çalıştırmak için terminalde:
+
+    ```bash
+    flutter run
+    ```
+
+## Katkıda Bulunanlar
+
+Katkılarınızı bekliyoruz! Lütfen pull request gönderin veya issue açın.
+
+## İletişim
+
+Sorularınız veya önerileriniz için serhat655_655@hotmail.com adresine e-posta gönderebilirsiniz.
