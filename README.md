@@ -1,4 +1,4 @@
-# Movie Match App
+# Movie Watch App
 
 Bu uygulama, kullanıcıların favori filmlerini bulmalarına yardımcı olan bir platformdur. Kullanıcılar farklı kategorilere göre filmleri keşfedebilir, favori filmlerini listelerine ekleyebilir ve başkalarıyla paylaşabilirler.ve filmlerini izleyebilirler
 
