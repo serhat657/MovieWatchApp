@@ -5,12 +5,7 @@ Bu uygulama, kullanıcıların favori filmlerini bulmalarına yardımcı olan bi
 ## Ekran Görüntüleri
 
 ## Ekran Görüntüleri
-
-<img src="https://github.com/user-attachments/assets/8bdc5cfa-c3e5-4e89-a8bc-88bfd150108b" alt="Ekran Görüntüsü (3)" width="720" height="720"/> <img src="https://github.com/user-attachments/assets/f1503193-5730-47d6-b4df-106556d8aff6" alt="Ekran Görüntüsü (1)" width="720" height="720"/>
-
-
-
-
+![Ekran Görüntüsü (1)](https://github.com/user-attachments/assets/88a45261-645d-49b4-a0c5-448e40aa8775)
 ## Özellikler
 
 - **Film Keşfet**: Farklı kategorilerdeki filmleri görüntüleyin.
