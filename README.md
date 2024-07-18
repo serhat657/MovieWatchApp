@@ -1,10 +1,6 @@
 # Movie Match App
 
-Bu uygulama, kullanıcıların favori filmlerini bulmalarına yardımcı olan bir platformdur. Kullanıcılar farklı kategorilere göre filmleri keşfedebilir, favori filmlerini listelerine ekleyebilir ve başkalarıyla paylaşabilirler.
-
-## Ekran Görüntüleri
-
-![Uygulama Ekran Görüntüsü](https://l24.im/hpXS5c)
+Bu uygulama, kullanıcıların favori filmlerini bulmalarına yardımcı olan bir platformdur. Kullanıcılar farklı kategorilere göre filmleri keşfedebilir, favori filmlerini listelerine ekleyebilir ve başkalarıyla paylaşabilirler.ve filmlerini izleyebilirler
 
 ## Özellikler
 
@@ -49,6 +45,10 @@ Bu uygulama, kullanıcıların favori filmlerini bulmalarına yardımcı olan bi
     ```bash
     flutter run
     ```
+
+## ❗️❗️Disclaimer ❗️❗
+şuan sadece design aşamasının kodları verilmiştir.
+
 
 ## Katkıda Bulunanlar
 
