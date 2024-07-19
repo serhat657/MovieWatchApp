@@ -5,7 +5,9 @@ Bu uygulama, kullanıcıların favori filmlerini bulmalarına yardımcı olan bi
 
 
 ## Ekran Görüntüleri
-[Ekran Görüntüsü (3)](https://github.com/user-attachments/assets/b05aab41-43fb-417f-b067-80e0b28333c5)![Ekran Görüntüsü (1)](https://github.com/user-attachments/assets/88a45261-645d-49b4-a0c5-448e40aa8775)!
+![Ekran Görüntüsü (3)](https://github.com/user-attachments/assets/7d26147a-85ce-4456-8d2e-17d8ca3c998b)![Ekran Görüntüsü (1)](https://github.com/user-attachments/assets/e3b4ecb9-d8d9-4272-b4f1-bdcc6e0a3839)
+
+
 
 ## Özellikler
 
