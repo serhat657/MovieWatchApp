@@ -2,7 +2,7 @@
 
 Bu uygulama, kullanıcıların favori filmlerini bulmalarına yardımcı olan bir platformdur. Kullanıcılar farklı kategorilere göre filmleri keşfedebilir, favori filmlerini listelerine ekleyebilir ve başkalarıyla paylaşabilirler.ve filmlerini izleyebilirler
 
-## Ekran Görüntüleri
+
 
 ## Ekran Görüntüleri
 ![Ekran Görüntüsü (1)](https://github.com/user-attachments/assets/88a45261-645d-49b4-a0c5-448e40aa8775)
